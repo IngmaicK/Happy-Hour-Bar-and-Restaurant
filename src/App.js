@@ -28,7 +28,7 @@ const App = () => {
             <h1>Welcome To Hoppy Hour!</h1>
           </div>
           <img src={logo} alt="logo" className="logo" />
-            <h2>Our Selection</h2>
+            <h2>Our Selection for you</h2>
           <div className="underline"></div>
         </div>
         <Categories
